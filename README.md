@@ -1,4 +1,4 @@
-# Advanced-Topics-in-Computer-Vision
+# Advanced-Topics-in-Computer-Vision - HW1
 
 -Within the scope of Advanced Topics in Computer Vision course, the codes where basic image processing is performed and
 contains input images.
